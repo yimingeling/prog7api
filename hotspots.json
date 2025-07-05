@@ -1,32 +1,112 @@
 [
   {
     "id": 1,
-    "name": "Naoshima",
+    "name": "Witch’s Market – Blaak",
     "coordinates": {
-      "latitude": 34.4667,
-      "longitude": 134.0000
+      "latitude": 51.9200,
+      "longitude": 4.4871
     },
-    "description": "Known as 'Art Island,' Naoshima is renowned for its contemporary art museums, installations, and sculptures set against a tranquil island backdrop.",
-    "image": "https://tse1.mm.bing.net/th?q=Art+Island+Naoshima"
+    "description": "Hidden within the bustling Markthal, a secret stall appears only to potion seekers. Here, you’ll find a rare herb called Moonleaf, glowing faintly under neon lights.",
+    "ingredient": "Moonleaf Herb",
+    "image": "https://tse1.mm.bing.net/th?q=Rotterdam+Markthal"
   },
   {
     "id": 2,
-    "name": "Hello",
+    "name": "Crystal Caves – Euromast Park",
     "coordinates": {
-      "latitude": 34.4667,
-      "longitude": 134.0000
+      "latitude": 51.9070,
+      "longitude": 4.4662
     },
-    "description": "Known as 'Art Island,' Naoshima is renowned for its contemporary art museums, installations, and sculptures set against a tranquil island backdrop.",
-    "image": "https://tse1.mm.bing.net/th?q=Art+Island+Naoshima"
+    "description": "Beneath the calm of Euromast Park lies a hidden cave where Crystal Slimes dwell. Carefully harvest glowing slime residue, known as Crystal Essence.",
+    "ingredient": "Crystal Essence",
+    "image": "https://tse1.mm.bing.net/th?q=Euromast+Park+Rotterdam"
   },
   {
     "id": 3,
-    "name": "fasdsa",
+    "name": "Erasmus Tower Ruins",
     "coordinates": {
-      "latitude": 34.4667,
-      "longitude": 134.0000
+      "latitude": 51.9178,
+      "longitude": 4.4792
     },
-    "description": "Known as 'Art Island,' Naoshima is renowned for its contemporary art museums, installations, and sculptures set against a tranquil island backdrop.",
-    "image": "https://tse1.mm.bing.net/th?q=Art+Island+Naoshima"
+    "description": "An arcane storm once struck the Erasmus Bridge, leaving behind fragments of pure energy. Climb to the tower’s ghostly remains to collect Arc Dust.",
+    "ingredient": "Arc Dust",
+    "image": "https://tse1.mm.bing.net/th?q=Erasmus+Bridge+Rotterdam"
+  },
+  {
+    "id": 4,
+    "name": "Botanic Enclave – Trompenburg",
+    "coordinates": {
+      "latitude": 51.9169,
+      "longitude": 4.5114
+    },
+    "description": "This hidden garden holds the last living Lumina Root, a magical plant that blooms only under moonlight. Beware of enchanted thorns.",
+    "ingredient": "Lumina Root",
+    "image": "https://tse1.mm.bing.net/th?q=Trompenburg+Rotterdam"
+  },
+  {
+    "id": 5,
+    "name": "Old Clock Tower – Delfshaven",
+    "coordinates": {
+      "latitude": 51.9066,
+      "longitude": 4.4480
+    },
+    "description": "The ticking of time echoes from this medieval tower. Brewmasters say the last piece of the potion lies here: a time-frozen feather from a Chrono Owl.",
+    "ingredient": "Chrono Owl Feather",
+    "image": "https://tse1.mm.bing.net/th?q=Delfshaven+Rotterdam"
+  },
+  {
+    "id": 6,
+    "name": "Dragon’s Forge – Waalhaven",
+    "coordinates": {
+      "latitude": 51.8850,
+      "longitude": 4.4475
+    },
+    "description": "Among the shipyards and steel, a hidden forge pulses with dragonfire. Only those with courage may extract a vial of Ignis Ember from the coals.",
+    "ingredient": "Ignis Ember",
+    "image": "https://tse1.mm.bing.net/th?q=Waalhaven+Rotterdam"
+  },
+  {
+    "id": 7,
+    "name": "Siren’s Wharf – Kop van Zuid",
+    "coordinates": {
+      "latitude": 51.9055,
+      "longitude": 4.4893
+    },
+    "description": "Fog rolls in thick over the Maas as siren songs lure the curious. At the water’s edge, shimmering scales called Tideglass lie buried in driftwood.",
+    "ingredient": "Tideglass Scale",
+    "image": "https://tse1.mm.bing.net/th?q=Kop+van+Zuid+Rotterdam"
+  },
+  {
+    "id": 8,
+    "name": "Whispering Library – Centrale Bibliotheek",
+    "coordinates": {
+      "latitude": 51.9225,
+      "longitude": 4.4886
+    },
+    "description": "Between ancient tomes and enchanted scrolls, the Whispering Library hides the Scrollvine — a creeping plant that stores echoes of spells.",
+    "ingredient": "Scrollvine Leaf",
+    "image": "https://tse1.mm.bing.net/th?q=Rotterdam+Library"
+  },
+  {
+    "id": 9,
+    "name": "Feywild Grove – Kralingse Bos",
+    "coordinates": {
+      "latitude": 51.9415,
+      "longitude": 4.5155
+    },
+    "description": "Deep within the forest, time flows oddly. The grove is home to a sprite colony and a rare bloom: the Twilily, a flower that only opens at dusk.",
+    "ingredient": "Twilily Bloom",
+    "image": "https://tse1.mm.bing.net/th?q=Kralingse+Bos+Rotterdam"
+  },
+  {
+    "id": 10,
+    "name": "Obsidian Vault – Rotterdam Centraal",
+    "coordinates": {
+      "latitude": 51.9244,
+      "longitude": 4.4697
+    },
+    "description": "Below the train station’s sleek surface lies an ancient vault of black stone. Brave the guardian shadows to retrieve the rare Obsidian Core.",
+    "ingredient": "Obsidian Core",
+    "image": "https://tse1.mm.bing.net/th?q=Rotterdam+Centraal"
   }
 ]
